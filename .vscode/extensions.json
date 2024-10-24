@@ -3,7 +3,7 @@
     "streetsidesoftware.code-spell-checker",
     "dbaeumer.vscode-eslint",
     "esbenp.prettier-vscode",
-    "zixuanchen.vitest-explorer",
+    "vitest.explorer",
     "styled-components.vscode-styled-components",
     "eamodio.gitlens",
     "wix.vscode-import-cost",
